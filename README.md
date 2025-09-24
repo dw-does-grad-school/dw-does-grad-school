@@ -1,4 +1,6 @@
-Const Intro_and_Name = Hi there! I'm David <br> <br>
+# Intro
+
+<h2> Hi there! I'm David </h2> <br> <br>
 
 Let Professional_Status = I'm a second year Master's Degree Student with Clemson's School of Computing studying Human Centered Artificial Intelligence with a passion for building AI integrated applications that improve people's lives.
 
