@@ -1,5 +1,6 @@
-Const Intro_and_Name = Hi there! I'm David <br> 
-Let Professional_Status = I'm a second year Master's Degree Student with Clemson's School of Computing studying Human Centered Artificial Intelligence
+Const Intro_and_Name = Hi there! I'm David <br> <br>
+
+Let Professional_Status = I'm a second year Master's Degree Student with Clemson's School of Computing studying Human Centered Artificial Intelligence with a passion for building AI integrated applications that improve people's lives.
 
 <!--
 **dw-does-grad-school/dw-does-grad-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
