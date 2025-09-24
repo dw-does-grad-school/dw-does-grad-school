@@ -1,4 +1,4 @@
-Const Intro_and_Name = Hi there! I'm David
+Const Intro_and_Name = Hi there! I'm David <br> 
 Let Professional_Status = I'm a second year Master's Degree Student with Clemson's School of Computing studying Human Centered Artificial Intelligence
 
 <!--
