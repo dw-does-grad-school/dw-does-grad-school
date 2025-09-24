@@ -2,7 +2,8 @@
 
 <h2> Hi there! I'm David </h2> <br> <br>
 
-Let Professional_Status = I'm a second year Master's Degree Student with Clemson's School of Computing studying Human Centered Artificial Intelligence with a passion for building AI integrated applications that improve people's lives.
+<p>I’m David Welsh, a Master’s student in Computer Science at Clemson University <img width="200" height="148" alt="image" src="https://github.com/user-attachments/assets/def295fa-8aa7-4a47-9cba-3e126d3eb465" />
+ and a full-stack engineer passionate about building AI-powered, user-centric applications. With a background spanning healthcare, UX design, and scalable web development, I bridge technical depth with human-centered design to create impactful digital experiences.</p>
 
 <!--
 **dw-does-grad-school/dw-does-grad-school** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
