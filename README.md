@@ -9,7 +9,9 @@
 # 🧑🏻‍💻 What I Do
 
 <ul>
- <li><b></b></li>
+ <li><b>UX/UI Development</b></li>
+ <li><b>Full Stack Development</b></li>
+ <li><b>AI Integration</b></li>
 </ul>
 
 # 🧠 My Tech Stack
