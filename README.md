@@ -9,16 +9,18 @@
 # 🧑🏻‍💻 What I Do
 
 <ul>
- <li><b>UX/UI Development</b></li>
- <li><b>Full Stack Development</b></li>
- <li><b>AI Integration</b></li>
+ <li><b>UX-focused Software Development</b>: My development philosophy is simple. Build things that are easy and engaging that solve real world problems for the users.</li>
+ <li><b>Responsible AI Integration</b>: AI is here to stay. My job as a developer is to integrate it effectively and ethically into the applications I build.</li>
+ <li><b>End to End Engineering</b>: Building scalable, maintainable systems across frontend, backend, and database layers.</li>
+ <li><b>Data Driven Application Design</b> Leveraging analytics, ML, and user data to inform features, personalization, and decision-making.</li>
+ <li><b>Creative Product Storytelling</b>: I shape my products with branding, designs, and narratives that help the end consumer connect to the apps at a personal level.</li>
 </ul>
 
 # 🧠 My Tech Stack
 
 I'm comfortable working with
 <ul>
- <li><b>Coding Languages</b>: Javascript, Typescript, Python, Java, Go</li>
+ <li><b>Coding Languages</b>: Javascript/Typescript, Python, Java, Go</li>
  <li><b>Frontend</b>: ReactJs, NextJs, Tailwind CSS, CSS/SCSS, VueJs/NuxtJs</li>
  <li><b>Backend</b>: NodeJs, Spring, FastAPI</li>
  <li><b>Databases</b>: NEON, Drizzle, MySQL, PostGreSQL</li>
@@ -26,7 +28,13 @@ I'm comfortable working with
  <li><b>Deployment/Infrastructure</b>: Vercel, Cloudfare, Railway</li>
 </ul>
 
-What I want to learn
+What I want to learn 📚
+<p>
+ <i>"The day you stop learning is the day you cease to be a master." <br></i>
+ I think that was a quote of Eric Ripert. But the meaning has always stuck with me. <b>NEVER STOP LEARNING.</b> 
+ As such, I'm always trying to see what's next in my personal development, and as such, am always trying to learn more. 
+ The below is what I'd like to spend some time working with in the next year. 
+</p>
 <ul>
  <li><b>Elixir</b>: There's a growing niché ecosystem around this that is growing fast enough to be noteworthy, and the language itself is syntactically fascinating.</li>
  <li><b>Rust or Zig</b>: There's a healthier ecosystem around these languages than C++ and they seem to have more practical applications.</li>
@@ -36,8 +44,22 @@ What I want to learn
 
 # 🤝 My Soft Skills
 <ul>
- <li><b>Teamwork and Coordination</b>: Having worked in both technical and medical environments </li>
- <li><b>Public Speaking</b>: I've presented at SXSW on how to help foster more inclusive working environments for Neurodiverse Professionals</li>
+ <li><b>Active Listening and Empathy</b>: 
+  Perhaps the greatest takeaway from my time working in the healthcare field was learning how to be present and listen to people. 
+  This has helped me learn how to better understand not only the needs of my product's users, but also in being able to more effectively
+  work within the teams that I'm on. 
+ </li>
+ <li><b>Cross-Disciplinary Communication</b>: 
+  Having worked in both technical and medical environments I'm used to having to explain things aspects of why X works in Y setting for Z
+  reasons to people with vastly different professional backgrounds. With regards to technology, this allows me to breakdown the needs of the 
+  various technical aspects of projects to non-technical stakeholders, as well as communicating why certain techniques or approaches are used 
+  by different members of the same team. 
+ </li>
+ <li><b>Public Speaking</b>: 
+  I've presented at SXSW on how to help foster more inclusive working environments for Neurodiverse Professionals. As well
+  as having become very comfortable presenting on various ideas in order to make the case for why certain ideas and causes matter
+  and make a lasting impact. 
+ </li>
 </ul>
 
 # 🎯 My Goals in the next 5 years
@@ -50,7 +72,7 @@ What I want to learn
 
 # My Other Passions
 <p>
- I'm a firm adherent to the idea that one's interests and passions will always, consiously or not, influence a person's work and their ways of doing it. And I like to be transparent about my own interests as it often informs the way I go about
+ I'm a firm adherent to the idea that one's interests and passions will always, consiously or not, influence a person's work and their ways of doing it. And I like to be transparent about my own interests as it often informs the way I go about building the various bits of tech I'm working on. 
 </p>
 
 <ul>
